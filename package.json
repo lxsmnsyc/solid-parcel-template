@@ -1,0 +1,16 @@
+{
+  "name": "solid-parcel-template",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "solid-js": "^1.2.5"
+  },
+  "devDependencies": {
+    "babel-preset-solid": "^1.2.5",
+    "parcel": "^2.0.1",
+    "solid-refresh": "npm:@lxsmnsyc/solid-refresh@^0.2.10"
+  }
+}
