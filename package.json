@@ -11,6 +11,6 @@
   "devDependencies": {
     "babel-preset-solid": "^1.2.5",
     "parcel": "^2.0.1",
-    "solid-refresh": "npm:@lxsmnsyc/solid-refresh@^0.2.10"
+    "solid-refresh": "^0.2.2"
   }
 }
