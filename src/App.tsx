@@ -1,3 +1,5 @@
+// @refresh granular
+
 import { createSignal, onCleanup, onMount } from "solid-js";
 
 function Count(props) {
